@@ -160,13 +160,14 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
+  - title: Maestría en Ingeniería de Sistemas e Informática
+    url: https://sistemas.unmsm.edu.pe/posgrado/maestrias/maestria-en-ingenieria-de-sistemas-con-mencion-en-is/
     date: '2019-06-30'
-    awarder: Stanford University
+    awarder: Universidad Nacional Mayor de San Marcos
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+    Especialidad en Ingeniería de Software. Programa de posgrado enfocado en el desarrollo avanzado de sistemas informáticos y gestión tecnológica.
+
 ---
 
-Ever Ramos is a Senior Software Developer specializing in backend systems and applied artificial intelligence. His work focuses on building innovative and efficient software solutions that combine AI and modern development practices to solve real-world problems. Passionate about technology and continuous improvement, Ever strives to push the boundaries of software engineering through creativity and precision. Outside of work, he enjoys training at the gym, running, exploring the mountains, fishing, and hunting—reflecting his balanced approach to discipline, nature, and technology.
+Ever Ramos es desarrollador junior de software, especializado en sistemas backend e inteligencia artificial aplicada. Su trabajo se centra en crear soluciones de software innovadoras y eficientes que combinan IA y prácticas de desarrollo modernas para resolver problemas reales. Apasionado por la tecnología y la mejora continua, Ever se esfuerza por ampliar los límites de la ingeniería de software mediante la creatividad y la precisión. Fuera del trabajo, disfruta entrenando en el gimnasio, corriendo, explorando las montañas, pescando y cazando, lo que refleja su enfoque equilibrado entre la disciplina, la naturaleza y la tecnología.
