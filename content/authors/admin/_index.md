@@ -57,15 +57,15 @@ education:
   - area: Maestría en Ingeniería de Sistemas e Informática
     institution: Universidad Nacional Mayor de San Marcos (UNMSM)
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |
       Especialidad en Ingeniería de Software. Programa de posgrado enfocado en el desarrollo avanzado de sistemas informáticos, gestión tecnológica e innovación.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: Ingenieria Electronica
+    institution: Universidad Nacional de Ingenieria
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
@@ -73,15 +73,15 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+  #- area: BS Computer Science
+   # institution: MIT
+   # icon: ""
+   # date_start: 2009-09-01
+  #  date_end: 2013-05-31
+   # summary: |
+  #    GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
+  #    Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
