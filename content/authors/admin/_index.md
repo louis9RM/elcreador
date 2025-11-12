@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Junior Full Stack Developer
+role: AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
