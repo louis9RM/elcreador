@@ -54,16 +54,17 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
+  - area: Maestría en Ingeniería de Sistemas e Informática
+    institution: Universidad Nacional Mayor de San Marcos (UNMSM)
+    icon: hero/academic-cap
+    date_start: 2017-03-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Especialidad en Ingeniería de Software. Programa de posgrado enfocado en el desarrollo avanzado de sistemas informáticos, gestión tecnológica e innovación.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      text: 'Ver programa'
+      url: 'https://sistemas.unmsm.edu.pe/posgrado/maestrias/maestria-en-ingenieria-de-sistemas-con-mencion-en-is/'
+
   - area: MS Computer Science
     institution: Carnegie Mellon University
     icon: ""
